@@ -24,8 +24,8 @@ $MODE_TYPE : 1 -> Swap faces in two images ; 2 -> Swap face in video with an ima
   
 ## Deep Learning Approach
   ## PRNet
-    <img src="git_images/prnet.png"  align="center" alt="Undistorted" width="400"/>
   
+    <img src="git_images/result_screenshot_19.03.2022.png" width="200"/>
   
   
 This was implemented as part of [CMSC733](https://cmsc733.github.io/2022/proj/p2/) and for detailed report refer [here](Report.pdf)
